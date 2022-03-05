@@ -1,7 +1,7 @@
-h1 Convex hull
+# Convex hull
 https://www.hackerrank.com/challenges/convex-hull-fp/problem
 
-h2 Notes
+## Notes
 
 I originally started with Graham Scan algorithm, but couldn't get it to work properly.
 
